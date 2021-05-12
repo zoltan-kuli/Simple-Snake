@@ -2,7 +2,7 @@
 
 I made Simple Snake during the fall of 2020 for my second web development class.
 
-The main reason behind this project was to start learning JavaScript and getting more comfortable with it.
+The main goal for this project was to start learning JavaScript and getting more comfortable with it.
 
 This was a simple project, but I did get better at JavaScript because of it, and it was fun making a game that was similar to an iconic part of my childhood.
 
