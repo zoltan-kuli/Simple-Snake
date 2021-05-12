@@ -8,4 +8,6 @@ This was a simple project, but I did get better at JavaScript because of it, and
 
 I would sometimes play the classic Snake on my parent's Nokia phone when I was young. And it felt nice trying to recreate that experience.
 
-Of course, nothing will have quite the feel of the original:)
+Of course, nothing will have quite the feel of the original, but you can try out simple Snake using [this link](https://people.inf.elte.hu/gshkd4/pages/games/simple-snake/).
+
+You can control the snake with the arrow keys.
